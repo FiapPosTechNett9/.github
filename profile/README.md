@@ -264,7 +264,7 @@ npm run dev
 ## 👥 Grupo 10
 
 - **Eduarda Vitória Cunha Matias** - RM366476 - @Eduarda M. ✨ RM366476
-- **Matheus Soares Camacho** - RM? - @MatFox
+- **Matheus Soares Camacho** - RM360729 - @MatFox
 - **Pedro Luperini Piza** - RM365457 - @Pedro Luperini - RM365457
 - **Rafaela Nascimento Carvalho** - RM366364 - @Rafaela - RM366364
 
