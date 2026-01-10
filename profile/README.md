@@ -259,7 +259,7 @@ npm run dev
 
 ## 🎥 Vídeo de Demonstração
 
-[Link]
+https://www.youtube.com/watch?v=7JWld05FExg
 
 ## 👥 Grupo 10
 
